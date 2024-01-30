@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Юрий Сажнев](https://up.htmlacademy.ru/htmlcss/39/user/2016315).
-* Наставник: `Неизвестно`.
+* Наставник: [Кексобот](https://up.htmlacademy.ru/htmlcss/39).
+* Мой проект: [SEDONA](https://ganmii.github.io/2016315-sedona-39/).
 
 ---
 
