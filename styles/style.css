@@ -200,6 +200,10 @@ body {
   background-color: #82b3d3;
 }
 
+.advantages-welcome {
+  height: 246px;
+}
+
 .welcome-wrapper::after {
   position: absolute;
   content: "";
